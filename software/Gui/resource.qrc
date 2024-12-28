@@ -1,0 +1,13 @@
+<RCC>
+  <qresource>
+    <file>icon/cil-loop.png</file>
+    <file>icon/balance.png</file>
+    <file>icon/menu.png</file>
+    <file>icon/home.png</file>
+    <file>icon/icons8-expand.gif</file>
+    <file>icon/pin.png</file>
+    <file>icon/push_aid.png</file>
+    <file>icon/screw.png</file>
+    <file>icon/sponge.png</file>
+  </qresource>
+</RCC>

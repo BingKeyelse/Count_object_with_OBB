@@ -1,0 +1,1 @@
+Error in processing_for_picture loop 0: No grab result data is referenced. Cannot access NULL pointer. : RuntimeException thrown (file 'GrabResultPtr.cpp', line 87)
